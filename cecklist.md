@@ -1,4 +1,4 @@
-## CeckList
+## CheckList
 
  - [x] Primo gioco
  - [x] Secondo Gioco
